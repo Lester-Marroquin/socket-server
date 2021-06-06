@@ -10,6 +10,7 @@ export class Usuario {
         this.id = id;
         this.nombre = 'sin-nombre';
         this.sala = 'sin-sala'
+
     }
 
 }
